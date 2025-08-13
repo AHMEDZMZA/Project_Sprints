@@ -21,9 +21,10 @@
 <img src="https://github.com/user-attachments/assets/275ca419-46db-450c-af6a-8699120220ec" width="300" />
 <img src="https://github.com/user-attachments/assets/4b401d56-a93d-4356-9532-f10d49ad67d8" width="300" />
 <img src="https://github.com/user-attachments/assets/452f70fc-1b19-44c5-b4d0-7f67eef0f655" width="300" />
---------------------------
-## Setup Instructions
 
+
+## Setup Instructions
+-------------------------------
 1. **Install Flutter**
    - Download Flutter SDK from the official website: [flutter.dev](https://flutter.dev/docs/get-started/install)
    - Follow the installation instructions for your operating system (Windows, macOS, Linux).
