@@ -21,3 +21,46 @@
 <img src="https://github.com/user-attachments/assets/275ca419-46db-450c-af6a-8699120220ec" width="300" />
 <img src="https://github.com/user-attachments/assets/4b401d56-a93d-4356-9532-f10d49ad67d8" width="300" />
 <img src="https://github.com/user-attachments/assets/452f70fc-1b19-44c5-b4d0-7f67eef0f655" width="300" />
+--------------------------
+## Setup Instructions
+
+1. **Install Flutter**
+   - Download Flutter SDK from the official website: [flutter.dev](https://flutter.dev/docs/get-started/install)
+   - Follow the installation instructions for your operating system (Windows, macOS, Linux).
+   - Make sure to add Flutter to your system PATH.
+
+2. **Install Required Tools**
+   - Install Android Studio or VS Code (or any IDE that supports Flutter).
+   - In Android Studio, install the Flutter and Dart plugins from the Plugins marketplace.
+
+3. **Set up Emulator or Connect Physical Device**
+   - Open Android Studio and create a new Android Virtual Device (AVD) emulator, or
+   - Connect your physical device with USB debugging enabled.
+
+4. **Clone the Project**
+   - Clone the repository using:
+     ```
+     git clone https://github.com/username/repository-name.git
+     ```
+   - Or download the ZIP archive and extract it.
+
+5. **Open the Project**
+   - Open the project folder in your preferred IDE.
+
+6. **Get Dependencies**
+   - Open a terminal inside the project directory and run:
+     ```
+     flutter pub get
+     ```
+
+7. **Run the Project**
+   - Make sure the emulator is running or your device is connected.
+   - Run the project using:
+     ```
+     flutter run
+     ```
+   - Or press the Run button in your IDE.
+
+8. **Change Language (Optional)**
+   - The app supports multiple languages using easy_localization.
+   - Change the language within the app or adjust the language settings as needed.
